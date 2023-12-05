@@ -1,7 +1,6 @@
 package com.grngoenterprise.udemy.exercicios;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class ExercicioMatriz {
 
@@ -27,6 +26,7 @@ public class ExercicioMatriz {
         for (double[] notasAluno: notasTurma){
             System.out.println(Arrays.toString(notasAluno));
         }
+
         System.out.println(media);
     }
 }

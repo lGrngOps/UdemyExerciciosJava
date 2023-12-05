@@ -24,6 +24,7 @@ public class ExercicioArray {
             total += notas;
             System.out.println("Notas :" + List.of(notas));
         }
+
         System.out.println("Media final : " + total / i);
         System.out.println("Total : " + total);
     }
