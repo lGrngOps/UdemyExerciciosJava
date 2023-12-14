@@ -1,4 +1,4 @@
-package com.grngoenterprise.udemy.exercicios;
+package com.grngoenterprise.udemy.exercicios.arraycollec;
 
 public class Application {
 
