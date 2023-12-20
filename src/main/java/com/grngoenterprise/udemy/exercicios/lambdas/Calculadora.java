@@ -22,7 +22,7 @@ public class Calculadora {
         for (String nome: aprovados){ //Foreach
             System.out.println(nome);
         }
-        aprovados.forEach(nome -> System.out.println(nome + " Fuck Yeah")); //Lambda
+        aprovados.forEach(nome -> System.out.println(nome + " Ohh Yeah")); //Lambda
         aprovados.forEach(System.out::println); // Method Reference
     }
 }
